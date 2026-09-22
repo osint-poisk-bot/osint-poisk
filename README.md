@@ -46,3 +46,8 @@
 **Какие сведения встречаются чаще?** Профили, объявления, телефоны, email, ники, сайты, фотографии и города.
 
 **[Перейти к OSINT-поиску](https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=osint-poisk-bot&utm_content=osint-poisk&utm_term=bottom&ref=github_osint-poisk-bot_osint-poisk_bottom)**
+
+
+## Узкие темы поиска
+
+Отдельные материалы по нику, аккаунту, номеру телефона, Sherlock и ID собраны в [каталоге OSINT-статей](articles/README.md).
